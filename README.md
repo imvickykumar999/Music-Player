@@ -1,25 +1,22 @@
-# Music-Player
-Weblink : (soon)
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-
-<title>Music Player</title>
-<meta name="description" content="">
-<meta name="author" content="">
+	<meta charset="utf-8">
 	
-<!-- Load JS -->
-<script src="mplayer.js"></script>
-
-<!-- Load CSS -->
-<link rel="stylesheet" href="mplayer.css">
-<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/css/font-awesome.min.css">
-
-<!--[if lt IE 9]>
-<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
+	<title>Music Player</title>
+	<meta name="description" content="">
+	<meta name="author" content="">
 	
+	<!-- Load JS -->
+	<script src="mplayer.js"></script>
+	
+	<!-- Load CSS -->
+	<link rel="stylesheet" href="mplayer.css">
+	<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/css/font-awesome.min.css">
+		
+	<!--[if lt IE 9]>
+	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
  </head>
 
 <body>
