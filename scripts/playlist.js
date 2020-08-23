@@ -1,13 +1,13 @@
 trackList = [ 
   {
-    name: "Sare-Jahan-Se-Acha",
-    artist:"TeknoAxe",
-    src: "music/Sare-Jahan-Se-Acha.mp3"
+    name: "Laxed",
+    artist:"Laxed",
+    src: "music/Laxed.mp3"
   },
   
   {
     name: "Sare-Jahan-Se-Acha",
-    artist:"TeknoAxe",
+    artist:"Sare-Jahan-Se-Acha",
     src: "music/Sare-Jahan-Se-Acha.mp3"
   }
 ];
