@@ -9,16 +9,16 @@ Weblink : (soon)
 <meta name="description" content="">
 <meta name="author" content="">
 	
-	<!-- Load JS -->
-	<script src="mplayer.js"></script>
-	
-	<!-- Load CSS -->
-	<link rel="stylesheet" href="mplayer.css">
-	<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/css/font-awesome.min.css">
-		
-	<!--[if lt IE 9]>
-	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-	<![endif]-->
+<!-- Load JS -->
+<script src="mplayer.js"></script>
+
+<!-- Load CSS -->
+<link rel="stylesheet" href="mplayer.css">
+<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/css/font-awesome.min.css">
+
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
 	
  </head>
 
