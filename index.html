@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>HTML5 Music Player</title>
+  <meta charset="UTF-8">
+  
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <div id = "container">
+  
+    <audio id="audio">
+      <source id="sourceMP3" src="" type="audio/ogg">
+    </audio>
+      
+    <div id = "wrapper">
+      <!-- Track information-->
+      <div id="trackInfo">
+        <div id="titleText">.</div>
+        <div id="albumText">.</div>
+        <div id="artistText">.</div>
+      </div>
+      
+      <div id="timeInfo">
+        <div><div id="timeBar"><div class="filler"></div></div></div>
+        <div id="timeText"></div>
+      </div>
+      
+      <!-- Controls -->
+      <div id="controls">
+        <div class="button" id="playBtn"><img src="icons/32/play-32.png"></div>
+        <div class="button" id="previousBtn"><img src="icons/32/rewind-32.png"></div>
+        <div class="button" id="nextBtn"><img src="icons/32/forward-32.png"></div>
+        <div id="volumeIcon"><img src="icons/32/volume-32.png"></div>
+        <div><div id="volumeSlider"><div class="filler"></div></div></div>
+      </div>
+  </div>
+  
+  <script src="scripts/sliderfy.js"></script>
+  <script src="scripts/playlist.js"></script>
+  <script src="scripts/controls.js"></script>
+</body>
+</html>
