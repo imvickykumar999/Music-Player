@@ -9,8 +9,7 @@ trackList = [
     name: "Sare-Jahan-Se-Acha",
     artist:"Sare-Jahan-Se-Acha",
     src: "music/Sare-Jahan-Se-Acha.mp3"
-  }
-  ,
+  },
   
   {
     name: "Aj Kal Ve",
